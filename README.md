@@ -1,5 +1,4 @@
 <h1 align="center">
-    <img alt="Hackeex" title="Hackeex" src="https://github.com/developer0116/hackeex-gatsby-starter/blob/master/src/images/icon.png" width="200"> </br>
     Awesome Gatsby Starter
 </h1>
 
@@ -30,8 +29,8 @@
     Use the Gatsby CLI to create a new site, specifying the blog starter.
 
     ```sh
-    # create a new Gatsby site using the Hackeex starter
-    gatsby new awesome-gatsby-site https://github.com/developer0116/hackeex-gatsby-starter
+    # create a new Gatsby site using the starter
+    gatsby new awesome-gatsby-site https://github.com/developer0116/gatsby-starter-kit
     ```
 
 2.  **Start developing.**
